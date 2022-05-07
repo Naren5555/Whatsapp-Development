@@ -1,0 +1,99 @@
+Authorization:
+Details->Auth Service->View Auth Service/Update Auth Service->Comments
+
+Referral Search:
+Update->?Update Appointment Slots->Description
+Update->Site List->Field has no name
+
+Registry of Unmet Needs/Innovations:
+Registry of Unmet Needs->View/Update Registry of Unmet Needs Record/Create Registry of Unmet Needs Record->Reason
+Slot Assignment->Details->Current Innovations Budget->Create Innovations Budget/Update Innovations Budget/View Innovations Budget->Comments
+Slot Assignment->Details->Current Innovations Budget->Create Innovations Budget/Update Innovations Budget/View Innovations Budget->Enhanced Rate Comments
+Slot Assignment->Details->Current Innovations Budget->Comments->View Budget Comments->Comments
+
+Backup Staffing:
+Take Assignment/Assign->Comments
+Create/Update/Copy/View->Provider Communication->Create->Comments
+Create/Update/Copy/View->Provider Communication->View Comments->Comments
+Create/Update/Copy/View->Check Back-up staffing not available (as applicable)->Who was notified of the incident (list names)
+Create/Update/Copy/View->Check Back-up staffing not available (as applicable)->How was the consumer's health and safety ensured?
+Create/Update/Copy/View->Check Back-up staffing not available (as applicable)->How was time covered?
+Create/Update/Copy/View->Check Back-up staffing not available (as applicable)->What follow-up was provided to consumer/legally responsible person
+Create/Update/Copy/View->Check Back-up staffing not available (as applicable)->What corrective measures will your agency implement to prevent this from occurring in the future?
+Create/Update/Copy/View->Check Back-up staffing offered but declined by consumer/legally responsible person (as applicable)->Comments
+Create/Update/Copy/View->Check Back-up staffing offered but declined by consumer/legally responsible person (as applicable)->Who was notified of the incident?
+Create/Update/Copy/View->Check Back-up staffing offered but declined by consumer/legally responsible person (as applicable)
+Create/Update/Copy/View->Check Back-up staffing offered but declined by consumer/legally responsible person (as applicable)
+Create/Update/Copy/View->Check Back-up staffing offered but declined by consumer/legally responsible person (as applicable)
+Create/Update/Copy/View->Check Back-up staffing offered but declined by consumer/legally responsible person (as applicable)
+Create/Update/Copy/View->Check Back-up staffing offered but declined by consumer/legally responsible person (as applicable)
+Create/Update/Copy/View->Check Back-up staffing offered but declined by consumer/legally responsible person (as applicable)
+
+Slot Scheduler:
+Update Appointment Slots/Create Appointment Slots->Description
+
+SIS:
+Take Assignment/Assign->Comments
+Details->Clinical Tags->View->Comments
+
+Referrals and Discharges:
+Care Coordination Referrals->Assign/Take Assignment->Comments
+Care Coordination Referrals->Create/Update/View->Comments
+Care Coordination Referrals->Create/Update/View->Reviewer Comments
+Care Coordination Discharges->Assign/Take Assignment->Comments
+Care Coordination Discharges->Create/Update/View->Comments
+Care Coordination Discharges->Create/Update/View->Reviewer Comments
+
+Case Load Management:
+Care Coordinators->Inner grid->View->Comments
+Case Loads->Transfer/Copy->Comments
+Case Loads->Details->Patient Measures->Add/Update/View->Measure Description
+Case Loads->Clinical Tags->Add/Update->Comments
+Case Loads->Calls->View Call->next to Call Resolution field
+Case Loads->Calls->View Call->Additional Call Details->5 fields without label name
+Case Loads->Calls->View Call->Call Notes
+Case Loads->Calls->View Call->Mental Health Concerns->Check Others
+Case Loads->Calls->View Call->Description of MH concerns
+Case Loads->Calls->View Call->Treatment Hx. and Past Hospitalizations
+Case Loads->Calls->View Call->If yes, describe pattern of use
+Case Loads->Calls->View Call->Is the person experiencing any of the following withdrawal symptoms?->Check Others
+Case Loads->Calls->View Call->If yes, please describe the DX
+Case Loads->Calls->View Call->Describe Connection
+Case Loads->Calls->View Call->List Major Medical Issues (including pregnancy, unmanaged diabetes, etc.)
+Case Loads->Calls->View Call->Additional Clinical Questions->Can you tell me more about your symptoms (frequency and duration) and stressors?
+Case Loads->Calls->View Call->Additional Clinical Questions->Can you tell me more about any risky behaviors (e.g. cutting, acting out sexually, inability to care for self) or situations (e.g. domestic violence)?
+Case Loads->Calls->View Call->Additional Clinical Questions->Do you have trouble controlling your anger?  Yes  No
+Case Loads->Calls->View Call->Additional Clinical Questions->Have you had any recent losses? (Document multiple recent losses in the last year)  Yes  No
+Case Loads->Calls->View Call->Additional Clinical Questions->Have you been having trouble sleeping? Are you feeling agitated or anxious as a result of your sleeplessness?  Yes  No
+Case Loads->Calls->View Call->Additional Clinical Questions->(Prompt for any additional precipitating events.)
+Case Loads->Calls->View Call->Substance Use Assessment Tool->1. Have you ever experienced negative consequences from your alcohol/other drug use (e.g. legal, family, work or school problems) ?  Yes  No
+Case Loads->Calls->View Call->Substance Use Assessment Tool->2. Are you now or have you ever had withdrawal symptoms when you stopped drinking/using?  Yes  No
+Case Loads->Calls->View Call->Substance Use Assessment Tool->3. Do you have any history of seizure during withdrawal?  Yes  No
+Case Loads->Calls->View Call->Substance Use Assessment Tool->Notes
+Case Loads->Calls->View Call->Substance Use Assessment Tool->Please document the rationale for your impression below, and actions you took as result
+Case Loads->Calls->View Call-> Homicide/Risk Assessment->1. In the past month, have you made any plans or considered a method that you might use to harm someone else?  Yes  No
+Case Loads->Calls->View Call-> Homicide/Risk Assessment->(If applicable) Do you have any weapons?
+Case Loads->Calls->View Call-> Homicide/Risk Assessment->2. Have you ever attempted to harm someone else?  Yes  No
+Case Loads->Calls->View Call-> Homicide/Risk Assessment->3. What has stopped you from taking actions on these thoughts up until now?
+Case Loads->Calls->View Call-> Homicide/Risk Assessment->4. Do you think you might actually make an attempt to hurt someone else in the near future?  Yes  No
+Case Loads->Calls->View Call-> Homicide/Risk Assessment->Who else knows of your plans?
+Case Loads->Calls->View Call-> Homicide/Risk Assessment->Please document the rationale for your impression below, and actions you took as result:
+Case Loads->Calls->View Call->Referrals->Provider selected was:->Check Others
+Case Loads->Calls->View Call->Referrals->Provider selected because:->Check Others
+Case Loads->Calls->View Call->Referrals->Special Needs Accommodations :->Check Others
+Case Loads->Transfer History->View Comments->Comments
+
+My CaseLoad:
+MyCaseload->Patient Details->Clinical Tags->Add/Update->Comments
+MyCaseload->Patient Details->Patient Notes->Add->Note
+My Caseload->Details->Episode of Care->Create/View/Update->Comment
+My Caseload->CC Discharge->Create/Update/View->Comments
+My Caseload->CC Discharge->Create/Update/View->Reviewer Comments
+Care Coordination Notes->Patient Details->Clinical Tags->Add/Update->Comments
+Care Coordination Notes->Addendum->Notes
+Care Coordination Notes->Addendum->Reviewer Comments
+Care Coordination Notes->Addendum/View->Add->Add/View->Comments
+Care Coordination Notes->Create/Update->Notes/Reviewer comments
+
+User Profile:
+Out of office->Out-of-Office Comments
